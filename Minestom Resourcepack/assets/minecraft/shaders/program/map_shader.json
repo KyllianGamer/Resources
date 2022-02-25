@@ -1,0 +1,9 @@
+{
+    "vertex": "map_shader",
+	"fragment": "map_shader",
+	"uniforms": [
+   { "name": "border", "type": "float", "count": 1, "values": [ 0.01 ] },
+   { "name": "circle_radius", "type": "float", "count": 1,  "values": [ 0.1 ] }
+]
+
+}
