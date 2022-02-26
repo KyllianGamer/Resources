@@ -3,10 +3,6 @@
         "swap"
     ],
     "passes": [
-        {
-            "name": "map_shader",
-            "intarget": "minecraft:main",
-            "outtarget": "swap"
-        }
+        
     ]
 }
